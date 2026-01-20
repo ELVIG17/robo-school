@@ -1,0 +1,35 @@
+.elementary {
+  display: flex;
+  flex-direction: column;
+  margin-top: 274px;
+  margin-left: 380px;
+}
+
+.mainNameInElementary {
+  color: #ffffff;
+  font-size: 70px;
+  margin: 0;
+  padding: 16px 8px;
+}
+
+.smallDescription {
+  width: 478px;
+  height: 64px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 16px 8px;
+  margin: 0;
+}
+.buttomInElementary {
+  background: #d52027;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 25px 54px;
+  gap: 10px;
+  width: 260px;
+  height: 79px;
+  margin-top: 16px;
+}
