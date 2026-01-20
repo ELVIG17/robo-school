@@ -1,0 +1,39 @@
+.header {
+  width: 100vw;
+  height: 48px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #141024;
+  border-radius: 5px;
+  position: relative;
+  top: 10px;
+  margin-top: 30px;
+}
+
+.bigNameLeftHeader {
+  width: 164px;
+  font-size: 30px;
+  margin: 0px 0px 0px 100px;
+  color: #ffffff;
+  padding: 16px 8px;
+}
+
+.menuInHeader {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  font-size: 20px;
+  color: #ffffff;
+  padding: 16px 8px;
+}
+
+.numberInHeader {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+  color: #ffffff;
+  margin-right: 100px;
+  padding: 16px 8px;
+}
+
