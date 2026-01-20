@@ -1,0 +1,36 @@
+.resultOfSchool {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: #ffffff;
+  padding: 120px 8px 16px 8px;
+}
+
+.mainWordOfResult {
+  margin-left: 380px;
+  font-size: 50px;
+  padding: 16px 8px;
+}
+
+.blocksOfResult {
+  display: flex;
+  flex-direction: column;
+  max-width: 410px;
+}
+
+.infoOfResults {
+  display: flex;
+  flex-direction: row;
+  margin-left: 380px;
+  gap: 20px;
+}
+
+.titleOfResult {
+  font-size: 24px;
+  padding: 0px 8px;
+}
+
+.dicriptionOfResult {
+  font-size: 18px;
+  padding: 0px 8px;
+}
