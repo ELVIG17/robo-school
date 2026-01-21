@@ -1,0 +1,15 @@
+.anket {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  background-color: #d52027;
+  align-items: center;
+}
+
+.contentAnket {
+  /* width: 100%; */
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
