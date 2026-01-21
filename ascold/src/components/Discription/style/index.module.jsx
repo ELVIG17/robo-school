@@ -1,12 +1,24 @@
 .discription {
   display: flex;
   flex-direction: column;
-  width: 100vw;
+  width: 100%;
   background-color: #ffffff;
-  padding-top: 120px;
+  padding-top: 120px 0;
+  align-items: center;
 }
+
+.contentDiscription {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  /* width: 1920px; */
+  margin: 0 auto;
+  padding: 0 60px;
+  align-items: flex-start;
+  max-width: 1480px;
+}
+
 .newDiscription {
-  margin-left: 380px;
   font-size: 30px;
   max-width: 891px;
 }
@@ -15,7 +27,6 @@
   display: flex;
   flex-direction: row;
   gap: 50px;
-  margin-left: 380px;
 }
 
 .numbers {
