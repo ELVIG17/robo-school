@@ -1,10 +1,23 @@
 .App {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   background-color: #bfc9e0;
+  width: 100%;
+  margin: 0 auto;
 }
 .firstMember {
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 60px; /* Отступы от краев экрана */
+  /* max-width: 1480px; 1920px - 2*60px = контент */
+  width: 100%;
+  margin: 0 auto; /* Центрирует внутри App */
+}
+
