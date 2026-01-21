@@ -12,7 +12,7 @@
   flex-direction: column;
   width: 100%;
   /* width: 1920px; */
-  margin: 0 auto;
+  margin: 120px auto;
   padding: 0 60px;
   align-items: flex-start;
   max-width: 1480px;
