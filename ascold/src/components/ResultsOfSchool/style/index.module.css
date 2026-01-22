@@ -22,6 +22,7 @@
 .mainWordOfResult {
   font-size: 50px;
   padding: 16px 8px;
+  color: black;
 }
 
 .blocksOfResult {
@@ -39,10 +40,12 @@
 .titleOfResult {
   font-size: 24px;
   padding: 0px 8px;
+  color: black;
 }
 
 .dicriptionOfResult {
   font-size: 18px;
   padding: 0px 8px;
+  color: black;
 }
 

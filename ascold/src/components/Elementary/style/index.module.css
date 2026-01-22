@@ -1,9 +1,10 @@
 .elementary {
   display: flex;
   flex-direction: column;
-  margin-top: 274px;
+  padding-top: 274px;
   width: 100%;
   align-items: center;
+  background-color:#141024 ;
 
   /* position: relative; */
 }
