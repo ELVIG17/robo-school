@@ -1,7 +1,7 @@
 .elementary {
   display: flex;
   flex-direction: column;
-  padding-top: 274px;
+  padding-top: 137px;
   width: 100%;
   align-items: center;
   background-color:#141024 ;
@@ -10,14 +10,22 @@
 }
 .contentElementary {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   width: 100%;
   /* width: 1920px; */
   max-width: 1480px;
   margin: 0 auto;
   align-items: flex-start;
-  /* padding-left: 380px; */
+  padding-left: 280px;
   /* margin-left: 380px; */
+}
+
+.leftPart{
+  padding-top: 137px;
+}
+
+.womanImg{
+  max-width: 784px;
 }
 
 .mainNameInElementary {
