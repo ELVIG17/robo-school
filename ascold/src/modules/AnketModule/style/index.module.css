@@ -1,0 +1,55 @@
+.anket {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  background-color: #d52027;
+  align-items: center;
+}
+
+.contentAnket {
+  /* width: 100%; */
+  margin: 100px auto;
+  display: flex;
+  /* align-items: center; */
+  flex-direction: row;
+}
+
+.leftBlock {
+  max-width: 476px;
+}
+
+.sale {
+  font-size: 36px;
+  color: #ffffff;
+}
+
+.promotion {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.form {
+  width: 500px;
+  height: 286px;
+  /* margin: 100px 0; */
+}
+
+.field {
+  max-width: 500px;
+  margin-bottom: 10px;
+}
+
+.field input {
+  width: 100%;
+  height: 64px;
+  padding: 0;
+  box-sizing: border-box;
+  padding-left: 20px;
+}
+
+.submitButton {
+  width: 100%;
+  height: 64px;
+  background-color: #141024;
+  color: #ffffff;
+}
