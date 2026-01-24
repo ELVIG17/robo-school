@@ -1,0 +1,103 @@
+/* .elementary {
+  display: flex;
+  flex-direction: column;
+  margin-top: 274px;
+  margin-left: 380px;
+}
+
+// подставить шрифты и картинку
+
+.mainNameInElementary {
+  color: #ffffff;
+  font-size: 70px;
+  margin: 0;
+}
+
+.description {
+  width: 478px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 16px 8px;
+}
+
+.buttomInElementary {
+} */
+
+/* .elementary {
+  display: flex;
+  flex-direction: column;
+  margin-top: 274px;
+  width: 100vw; /* Полная ширина экрана */
+/* min-height: 100vh; /* Опционально: полная высота */
+/* background-color: #bfc9e0; Добавьте нужный цвет фона */
+/* align-items: center; */
+/* position: relative; Раскомментируйте для позиционирования */
+/* left: 50%; */
+/* right: 50%;
+  margin-left: -50vw; */
+/* margin-right: -50vw; Это растягивает на всю ширину  */
+
+/* .contentElementary {
+  display: flex;
+  flex-direction: column;
+  width: 100vh;
+  max-width: 1480px;
+  margin: 0 auto;
+  align-items: flex-start;
+  padding: 0 60px; /* Добавьте отступы по бокам для контента */
+.elementary {
+  display: flex;
+  flex-direction: column;
+  margin-top: 274px;
+  width: 100vw;
+  align-items: center;
+  background-color: #141024;
+  left: 50%;
+  right: 50%;
+  /* margin-left: -50vw;
+  margin-right: -50vw; */
+
+  /* position: relative; */
+}
+.contentElementary {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  /* width: 1920px; */
+  max-width: 1480px;
+  margin: 0 auto;
+  align-items: flex-start;
+  /* padding-left: 380px; */
+  /* margin-left: 380px; */
+}
+
+.mainNameInElementary {
+  color: #ffffff;
+  font-size: 70px;
+  margin: 0;
+  padding: 16px 8px;
+}
+
+.smallDescription {
+  width: 478px;
+  height: 64px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 16px 8px;
+  margin: 0;
+}
+.buttomInElementary {
+  background: #d52027;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 25px 54px;
+  gap: 10px;
+  width: 260px;
+  height: 79px;
+  margin-top: 16px;
+}
+
+/* подключить шрифты и картинку  */
