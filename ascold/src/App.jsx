@@ -5,6 +5,7 @@ import { ResultOfSchool } from "./components/ResultsOfSchool";
 import { Treners } from "./components/Treners";
 import { ChoiceOfPocket } from "./components/ChoiceOfPocket";
 import { Anket } from "./components/Anket";
+import { Footer } from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Treners />
       <ChoiceOfPocket />
       <Anket />
+      <Footer />
     </div>
   );
 }
