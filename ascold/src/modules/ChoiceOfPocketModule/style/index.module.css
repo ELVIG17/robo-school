@@ -19,6 +19,8 @@
 
 .mainWordOfPocket {
   font-size: 50px;
+  align-self: center;
+  max-width: 1480px;
 }
 
 .pockets {
