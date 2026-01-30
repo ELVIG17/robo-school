@@ -15,7 +15,8 @@
   flex-direction: row;
   justify-content: space-between;
   width: 100%;
-  /* max-width: 1480px; */
+  /* max-width: 1480px;
+  margin: 0 auto; */
   /* width: 1920px; */
 
   /*   display: flex;
