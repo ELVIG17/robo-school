@@ -9,12 +9,12 @@
 
 .contentChoiceOfPocket {
   width: 100%;
-  /* max-width: 1480px; */
+  max-width: 1480px;
   margin: 0 auto;
   /* padding: 0 60px; */
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .mainWordOfPocket {
@@ -22,6 +22,7 @@
   align-self: center;
   max-width: 1480px;
   color: black;
+  align-self: flex-start;
 }
 
 .pockets {

@@ -48,7 +48,7 @@
 .elementary {
   display: flex;
   flex-direction: column;
-  padding-top: 274px;
+  padding-top: 137px;
   width: 100vw;
   align-items: center;
   background-color: #141024;
@@ -67,8 +67,15 @@
   max-width: 1480px;
   margin: 0 auto;
   align-items: flex-start;
+  gap: 50px;
   /* padding-left: 380px; */
   /* margin-left: 380px; */
+}
+
+.leftPart {
+  display: flex;
+  flex-direction: column;
+  padding-top: 200px;
 }
 
 
@@ -99,6 +106,11 @@
   width: 260px;
   height: 79px;
   margin-top: 16px;
+}
+
+.img {
+  width: 783px;
+  height: 918px;
 }
 
 /* подключить шрифты и картинку  */

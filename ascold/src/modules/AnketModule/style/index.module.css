@@ -37,6 +37,7 @@
 .field {
   max-width: 500px;
   margin-bottom: 10px;
+  
 }
 
 .field input {
@@ -45,6 +46,7 @@
   padding: 0;
   box-sizing: border-box;
   padding-left: 20px;
+  background-color: #ffffff;
 }
 
 .submitButton {
