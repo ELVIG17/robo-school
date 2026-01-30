@@ -1,3 +1,4 @@
+import { Phone } from "../../components/Phone/Phone";
 import style from "./style/index.module.css";
 
 export const Header = () => {
@@ -10,7 +11,7 @@ export const Header = () => {
           <p>Тренеры</p>
           <p>Стоимость</p>
         </div>
-        <h1 className={style.numberInHeader}>+7 800 000 11 22</h1>
+        <Phone/>
       </div>
     </header>
   );
