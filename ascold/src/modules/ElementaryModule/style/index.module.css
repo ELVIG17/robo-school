@@ -48,7 +48,7 @@
 .elementary {
   display: flex;
   flex-direction: column;
-  margin-top: 274px;
+  padding-top: 274px;
   width: 100vw;
   align-items: center;
   background-color: #141024;
@@ -72,7 +72,7 @@
 }
 
 .mainNameInElementary {
-  color: #ffffff;
+  color: #FFFFFF;
   font-size: 70px;
   margin: 0;
   padding: 16px 8px;

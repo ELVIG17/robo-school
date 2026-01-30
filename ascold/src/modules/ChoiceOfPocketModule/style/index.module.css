@@ -21,6 +21,7 @@
   font-size: 50px;
   align-self: center;
   max-width: 1480px;
+  color: black;
 }
 
 .pockets {
@@ -64,10 +65,12 @@
 
 .name {
   font-size: 50px;
+  color: black;
 }
 
 .price {
   font-size: 50px;
+  color: black;
 }
 
 .description {
@@ -75,6 +78,7 @@
   word-wrap: break-word;
   hyphens: auto;
   max-width: 320px;
+  color: black;
 }
 
 .bid {

@@ -21,6 +21,7 @@
 .newDiscription {
   font-size: 30px;
   max-width: 891px;
+  color: black;
 }
 
 .stats {
@@ -38,4 +39,5 @@
   font-size: 18px;
   font-weight: 400;
   max-width: 260px;
+  color: black;
 }

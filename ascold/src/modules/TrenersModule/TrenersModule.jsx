@@ -1,5 +1,5 @@
 import style from "./style/index.module.css";
-import image from "../../assets/2.2.jpg";
+import image from "../../assets/trener.svg";
 
 export const Treners = () => {
   return (
