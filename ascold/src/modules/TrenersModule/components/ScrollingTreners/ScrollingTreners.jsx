@@ -5,7 +5,7 @@ export const ScrollingTreners = () =>{
     return(
                 <div className={style.scrollingTreners}>
                   {/* <button className={style.leftButtom}>&#10094</button> */}
-                  <div className={style.cards}>
+                  {/* <div className={style.cards}>
                     <img className={style.imageOfTrener} src={image}></img>
                     <h2 className={style.nameOfTrener}>Ирина Лайм</h2>
                     <p className={style.post}>преподаватель по робототехнике</p>
@@ -34,8 +34,9 @@ export const ScrollingTreners = () =>{
                     <h2 className={style.nameOfTrener}>Лиза Весенняя</h2>
                     <p className={style.post}>преподаватель по робототехнике</p>
                     <button className={style.detailsOfTrener}>Подробнее</button>
-                  </div>
+                  </div> */}
                   {/* <button className={style.rightButtom}>&#10095</button> */}
+                  <Trene
                 </div>
     )
 }
